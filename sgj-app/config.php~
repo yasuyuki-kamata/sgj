@@ -14,10 +14,10 @@ if (isset($_SERVER["HTTPS"]) && $_SERVER["HTTPS"]){
 $config["canvasUrl"] = $protocol."apps.facebook.com/sgj-app/";
 
 // アプリケーションID
-$config["appId"] = '';
+$config["appId"] = '308119035902401';
 
 // シークレットキー
-$config["secret"] = '';
+$config["secret"] = '44ac80a30b199be20b6943f17bb0f62b';
 
 // 全てのパーミッション
 //http://developers.facebook.com/docs/reference/api/permissions/#extended_perms
